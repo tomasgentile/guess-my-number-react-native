@@ -4,4 +4,4 @@ Este proyecto fue realizado dentro del curso "React Native - The practical guide
 
 Algunos screenshots:
 
-![screenshot-beggining](/assets/screenshots/beggining.png)
+![beggining](/assets/screenshots/beggining.png)
