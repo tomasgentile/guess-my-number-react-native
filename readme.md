@@ -5,3 +5,4 @@ Este proyecto fue realizado dentro del curso "React Native - The practical guide
 Algunos screenshots:
 
 ![beggining](/assets/screenshots/beggining.png?raw=true)
+![pick-number](/assets//screenshots/pick-number.png)
